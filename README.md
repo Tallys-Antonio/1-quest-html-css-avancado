@@ -26,4 +26,4 @@ Este projeto me proporcionou uma ótima oportunidade para colocar em prática os
 
 
 ## Créditos
-*** Agradeço a Curso DevQuest por fornecer o conhecimento necessário para a realização desse projeto. ***
+***Agradeço a Curso DevQuest por fornecer o conhecimento necessário para a realização desse projeto.***
