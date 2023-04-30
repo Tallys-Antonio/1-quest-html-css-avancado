@@ -45,11 +45,13 @@
 
 @media (max-width: 615px){
     body{
-        background-image: url(../images/bg-mobile.svg);
+        background: url(../images/bg-mobile.svg) var(--cor-de-fundo) center no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
     } 
 
     .header{
-        padding: 25px 0;
+        padding: 25px;
     }
 
     .header img{
